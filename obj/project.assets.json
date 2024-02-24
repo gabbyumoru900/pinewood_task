@@ -2774,24 +2774,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cybes\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cybes\\Desktop\\pinewood-interview\\pinewood-crud-app\\pinewood-crud-app.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\pinewood-crud-app\\pinewood-crud-app.csproj",
       "projectName": "pinewood-crud-app",
-      "projectPath": "C:\\Users\\cybes\\Desktop\\pinewood-interview\\pinewood-crud-app\\pinewood-crud-app.csproj",
-      "packagesPath": "C:\\Users\\cybes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cybes\\Desktop\\pinewood-interview\\pinewood-crud-app\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Desktop\\pinewood-crud-app\\pinewood-crud-app.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\pinewood-crud-app\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\cybes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2799,7 +2794,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2867,7 +2861,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

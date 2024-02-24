@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pinewood-crud-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6232256e19e6ef53353a0bf6797e8aec4626c7b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6dd1bacd26e2cfa256e8bdb2868e9caf28e41be")]
 [assembly: System.Reflection.AssemblyProductAttribute("pinewood-crud-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pinewood-crud-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
